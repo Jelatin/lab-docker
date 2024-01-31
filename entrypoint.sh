@@ -1,2 +1,2 @@
 #/bin/sh
-echo "Hello yelly!"
+echo "Hello yelly lab2!"
